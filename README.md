@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Gasmaskchan/Gasmaskchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gasmaskchan/GMC** 
 
 
 - 🔭 I’m currently working on ... Shell Scripting
